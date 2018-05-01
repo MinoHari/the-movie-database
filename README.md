@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The movie database
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 2.5 rails version : 2.5
 
 * System dependencies
 
-* Configuration
+* Configuration : bundle install, rails db:migrate, rails db:seed
 
-* Database creation
+# contributor
 
-* Database initialization
+* slack : @tinosam
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* slack : @hari
